@@ -1,0 +1,14 @@
+layout_spectrum: 0.1405951
+typography_spectrum: 0.9487737
+color:
+  saturation: 0.8261735
+  lightness: 0.2102164
+  brandStrength: 0.360162
+  rhythmicContrast: 0.428347
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: SINC
